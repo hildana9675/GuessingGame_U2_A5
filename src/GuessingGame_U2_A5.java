@@ -9,7 +9,8 @@
  * @author Hildana
  */
 public class GuessingGame_U2_A5 extends javax.swing.JFrame {
-
+    
+    //generate a random number between 1 -100
     int randNum = (int) Math.ceil (Math.random()*100);
     
     public GuessingGame_U2_A5() {
