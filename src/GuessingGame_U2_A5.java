@@ -117,7 +117,7 @@ public class GuessingGame_U2_A5 extends javax.swing.JFrame {
 
     private void buttonEnterActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonEnterActionPerformed
         
-        //retrive the number entered to be comared to the secret number 
+        //retrieve the number entered to be compared to the secret number 
         int guessNum = (int) Double.parseDouble(textEnterNum.getText());
       
         //if the number guessed equalled to the random number, the user is succesfull
